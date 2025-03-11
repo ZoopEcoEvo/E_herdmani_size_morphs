@@ -3,10 +3,10 @@
 ## 2025-03-11
 
 Went over gitflow steps:     
-1) start session    
-2) Pull   
+1) Start session by opening the R proj file   
+2) Go to panel and select Pull icon
 3) Make changes     
-4) Commit   
-5) Commit   
-6) Pull   
-7) Push 
+4) Hit Commit button, select file you want to stage, write commit message, hit the commit button, hit the push button 
+5) Repeat as needed   
+6) Final Pull   
+7) Final Push 
