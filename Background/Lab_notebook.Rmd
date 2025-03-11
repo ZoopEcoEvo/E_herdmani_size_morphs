@@ -1,4 +1,4 @@
-# Eurytemora Hermani Size Morph Project Lab Notebook
+# Eurytemora Herdmani Size Morph Project Lab Notebook
 
 ## 2025-03-11
 
@@ -10,3 +10,7 @@ Went over gitflow steps:
 5) Repeat as needed   
 6) Final Pull   
 7) Final Push 
+
+Sample: ARM V2 2024-8-19
+
+protocol was followed, two pipettes were used from the sample, 10 copepods were gathered and imaged

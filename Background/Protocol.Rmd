@@ -1,0 +1,17 @@
+# Eurytemora Herdmani Size Morph Project Protocol
+
+## Taking Size Images
+1) Grab pitcher and fill with water to fill the petri dish halfway with water
+2) Grab samples and pick a tube to pull copepods from and record site, tow type ,and date     
+3) Gently invert the tube until the tube is well mixed  
+4) Take 2 to 3 ml of sample and add to petri dish, adding more if not dense enough, and pipette some water into the pipette to rinse out any remaining copepods before mixing the sample  
+5) Put the sample under the Stemi dissection scope to let sit for 5 minutes before using needlenose tweezers to isolate females E. Herdmani with egg sacks into the image well plate   
+notes: be careful with needle nose tweezers to not break the tips of the tweezers, one female per drop of water on the plate, put one every other drop and every other row. When placing individuals skip first 2 rows and last 3 columns   
+6) Carefully move samples to compound scope
+note: be very careful with compound scope due to fragility and expensive price, try not to scratch lenses, dont pulled dust cover to fast, lower stage all the way down and start/end session with 4x lense, tighten camera holder on rubber just enough to hold into place but not too tight
+7) Turn on microscope, set up phone camera, set up focus lock, take scale bar image using 10x objective, and replace scale bar with image plate    
+8) Go individual by individual, removing water as needed, focus on the individual where whole prosome is in view    
+note: when moving between rows, make sure 20x does not come in contact with well plate    
+9) When done, switch back to 4x lense, turn off, lower plate, remove camera, and put dust cover back on   
+10) Transfer any images to raw data folder    
+11) Rinse well plate, return samples, and clean anything else
