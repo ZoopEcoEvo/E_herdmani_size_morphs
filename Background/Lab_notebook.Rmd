@@ -1,0 +1,12 @@
+# Eurytemora Hermani Size Morph Project Lab Notebook
+
+## 2025-03-11
+
+Went over gitflow steps:     
+1) start session    
+2) Pull   
+3) Make changes     
+4) Commit   
+5) Commit   
+6) Pull   
+7) Push 
