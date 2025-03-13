@@ -48,7 +48,7 @@
 
 7.  record all relevant information into the excel sheet
 
-    Note: if multiple scale bars, repeat process for each scale bar recorded
+    Note: if multiple scale bars, repeat process for each scale bar recorded.
 
 ## Data Recording
 
