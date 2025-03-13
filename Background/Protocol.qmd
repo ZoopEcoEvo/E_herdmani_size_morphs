@@ -32,7 +32,23 @@
 3.  Download the new images to the raw data folder
 4.  check the photos before deleting the old HEIC photos
 
-## Size Measuring 
+## Making Size Measuring 
+
+1.  Open the JPEG of the scale bar in Fiji/image-J
+
+2.   Put on one side of the screen with the excel on the other side
+
+3.  select the line tool and trace the scale bar
+
+4.  select analyze, fill in known distance to 1, and hit the global box option
+
+5.  Measure from front of the prosome to the back at the outermost point
+
+6.  make the measurement (control + m)
+
+7.  record all relevant information into the excel sheet
+
+    Note: if multiple scale bars, repeat process for each scale bar recorded
 
 ## Data Recording
 
