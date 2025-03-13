@@ -1,0 +1,24 @@
+# Eurytemora Herdmani Size Morph Project Lab Notebook
+
+## 2025-03-11
+
+Went over gitflow steps:\
+1) Start session by opening the R proj file\
+2) Go to panel and select Pull icon
+
+3\) Make changes\
+4) Hit Commit button, select file you want to stage, write commit message, hit the commit button, hit the push button
+
+5\) Repeat as needed\
+6) Final Pull\
+7) Final Push
+
+Sample: ARM V2 2024-8-19
+
+protocol was followed, two pipettes were used from the sample, 10 copepods were gathered and imaged.
+
+## 2025-03-13
+
+Sample: ARM V2 2024-8-19
+
+Protocol was followed, 10 copepods were gathered and imaged. The scale bar had to be done two times. Size measurements were started today.
