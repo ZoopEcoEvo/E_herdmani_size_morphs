@@ -4,8 +4,11 @@ library(tidyverse)
 
 #Determine which scripts should be run
 process_data = F #Runs data analysis 
-make_report = F #Runs project summary
+make_report = T #Runs project summary
 knit_manuscript = F #Compiles manuscript draft
+
+size_data = read.csv("Raw_data/size_data.csv")
+
 
 ############################
 ### Read in the RAW data ###

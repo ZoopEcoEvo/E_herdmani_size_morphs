@@ -29,4 +29,6 @@ To do: finish size measurements for the samples taken
 
 Sample: ARM V2 2024-8-9
 
-Protocol was followed with 10 copepod samples.
+Protocol was followed with 10 copepod samples. They were imaged and measured and exploratory analysis was started
+
+To do= make plot look nice, fill and color, pull pictures for small individuals and double check , make plan on where analysis is gonna go, write up brief sentence (couple sentences) about figure

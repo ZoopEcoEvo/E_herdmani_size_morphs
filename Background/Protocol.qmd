@@ -32,11 +32,11 @@
 3.  Download the new images to the raw data folder
 4.  check the photos before deleting the old HEIC photos
 
-## Making Size Measuring 
+## Making Size Measuring
 
 1.  Open the JPEG of the scale bar in Fiji/image-J
 
-2.   Put on one side of the screen with the excel on the other side
+2.  Put on one side of the screen with the excel on the other side
 
 3.  select the line tool and trace the scale bar
 
