@@ -32,3 +32,9 @@ Sample: ARM V2 2024-8-9
 Protocol was followed with 10 copepod samples. They were imaged and measured and exploratory analysis was started
 
 To do= make plot look nice, fill and color, pull pictures for small individuals and double check , make plan on where analysis is gonna go, write up brief sentence (couple sentences) about figure
+
+## 2025-03-25
+
+Sample: GMS V2 2024-8-19
+
+Protocol was followed for 30 samples with 10, 9, and 11 on each well plate
