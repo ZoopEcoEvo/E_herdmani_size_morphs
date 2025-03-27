@@ -38,3 +38,15 @@ To do= make plot look nice, fill and color, pull pictures for small individuals 
 Sample: GMS V2 2024-8-19
 
 Protocol was followed for 30 samples with 10, 9, and 11 on each well plate
+
+## 2025-03-27
+
+Sample: EBM S1 2024-8-19
+
+This sample has very low abundances of Eurytemora, 1st individual dried up so measurement may look weird
+
+Copepod 1 was unable to get imaged due to flattening and inability to turn on its side
+
+individuals 1,2,3, are Herdmani,
+
+Individuals 4, 5, 6, 7, 8, 9 are Americana
