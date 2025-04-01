@@ -50,3 +50,9 @@ Copepod 1 was unable to get imaged due to flattening and inability to turn on it
 individuals 1,2,3, are Herdmani,
 
 Individuals 4, 5, 6, 7, 8, 9 are Americana
+
+## 2025-04-01
+
+Sample: PIM V2 2024-8-19
+
+15 individuals were taken from this site and they were imaged.
