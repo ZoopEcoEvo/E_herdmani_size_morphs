@@ -80,3 +80,9 @@ Sample: EBM V2 2024-8-19
 Sample: EBM O3 2024-8-19
 
 30 individuals were sampled and imaged
+
+## 2025-04-15
+
+Sample: GMS S1 2024-8-19
+
+7 individuals were sampled and imaged
