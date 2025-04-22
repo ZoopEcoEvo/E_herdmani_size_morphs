@@ -98,3 +98,7 @@ Sample: ARM O3 2024-8-19
 Sample: PIM O3 2024-8-19
 
 30 individuals were sampled and imaged.
+
+## 2025-04-22
+
+The size images were measured for all the sites
